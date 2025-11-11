@@ -1,11 +1,60 @@
-# 👋 Hello, I'm Cyber_Prince!
-- 🌱 I’m currently learning cybersecurity and AI/ML.
-- 🔧 I enjoy working on ethical hacking projects and building smart IoT systems.
-- 🤝 I’m looking to collaborate on open-source projects related to cybersecurity and machine learning.
-- 📫 You can reach me at [prince201kashyap@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/prince-kashyapp/).
+<div align="center">
+  <!-- Header Animation -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3diNTd5MnJzbWhncHM1czZyeDBlbDB5cTNpZGYwYWJvZjNwYmtmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Header Animation" width="400" />
+</div>
 
-## 🛠️ Tech Stack
-- **Languages**: Python, C, C++
-- **Frameworks**: TensorFlow, PyTorch
-- **Tools**: Wireshark, Metasploit, Raspberry Pi, Git
-- **Interests**: Cybersecurity, Ethical Hacking, Machine Learning
+</div>
+<h1 align="center">Hey 👋, I'm Cyber Prince</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress </h3>
+
+---
+
+### 🛠️ Tech Stack
+## ⚡ Tech Stack I Use
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="50" style="background-color:white; border-radius: 50px; padding: 4px;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="50"/> &nbsp;
+</p>
+
+-----
+
+### 🌼 Contribution Bloom Graph:
+[![Shalini’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahi0121&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 Snake Eating My Contributions
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+<hr/>
+
+<h2>📬 Contact Me</h2>
+
+<p>
+Hi there! I'm <strong>Cyber Prince</strong> — a passionate <strong>Content Writer</strong>, creative <strong>Graphic Designer</strong>, and an enthusiastic <strong>Cybersecurity Explorer</strong>.  
+I love blending creativity with tech — whether it's writing engaging blogs, crafting aesthetic visuals, or diving into digital security.  
+Always excited to collaborate on meaningful projects or just vibe over design, tech & dreams 🌈✨  
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" style="vertical-align:middle; margin-right:8px;" />
+  www.linkedin.com/in/prince-kashyapp
+</a>
+</p>
+
+<!-- Bloom Unscreencut GIF - Bottom Right -->
+<div align="right">
+  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/assets/bloom-unscreen.gif" alt="Bloom Animation" width="320" />
+</div>
