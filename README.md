@@ -25,11 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="50"/> &nbsp;
 </p>
 
------
-
-### 🌼 Contribution Bloom Graph:
-[![Prince github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahi0121&theme=tokyo-night&area=true&hide_border=true)]
-
 ---
 
 ### 🐍 Snake Eating My Contributions
@@ -56,5 +51,5 @@ Always excited to collaborate on meaningful projects or just vibe over design, t
 
 <!-- Bloom Unscreencut GIF - Bottom Right -->
 <div align="right">
-  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/assets/bloom-unscreen.gif" alt="Bloom Animation" width="320" />
+  <img src="(https://camo.githubusercontent.com/1cc478d6ea38eab530acb98124c749dba0c5b19294bee0ee4bd6169ae4f5639d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)" alt="Bloom Animation" width="320" />
 </div>
