@@ -16,7 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="50"/> &nbsp;
@@ -37,7 +36,7 @@
 <h2>📬 Contact Me</h2>
 
 <p>
-Hi there! I'm <strong>Cyber Prince</strong> — a passionate <strong>Content Writer</strong>, creative <strong>Graphic Designer</strong>, and an enthusiastic <strong>Cybersecurity Explorer</strong>.  
+Hi there! I'm <strong>Cyber Prince</strong> — a passionate <strong>Content Writer</strong>, creative and an enthusiastic <strong>Cybersecurity Explorer</strong>.  
 I love blending creativity with tech — whether it's writing engaging blogs, crafting aesthetic visuals, or diving into digital security.  
 Always excited to collaborate on meaningful projects or just vibe over design, tech & dreams 🌈✨  
 </p>
