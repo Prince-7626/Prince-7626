@@ -7,6 +7,8 @@
 <h1 align="center">Hey 👋, I'm Cyber Prince</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress </h3>
 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I think I am the best coder.
 ---
 
 ### 🛠️ Tech Stack
