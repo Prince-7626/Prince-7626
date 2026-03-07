@@ -1,56 +1,113 @@
 <div align="center">
-  <!-- Header Animation -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3diNTd5MnJzbWhncHM1czZyeDBlbDB5cTNpZGYwYWJvZjNwYmtmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Header Animation" width="400" />
-</div>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+# 💻 Cyber Prince
+
+### 🔐 Cybersecurity Enthusiast | Ethical Hacker | SOC Analyst (Learning)
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Explorer;Ethical+Hacker+in+Progress;SOC+Analyst+Learner;Python+Security+Tools+Developer;AI+%2B+Cybersecurity+Researcher"/>
 
 </div>
-<h1 align="center">Hey 👋, I'm Cyber Prince</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress </h3>
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I think I am the best coder.
 ---
 
-### 🛠️ Tech Stack
-## ⚡ Tech Stack I Use
+# 👨‍💻 About Me
+
+🎓 MCA (Hons.) Student at **Lovely Professional University**  
+🔐 Passionate about **Cybersecurity & Ethical Hacking**  
+🛡️ Interested in **SOC Monitoring, Threat Detection, VAPT**  
+🐍 Building **Python-based security tools**  
+🤖 Exploring **AI + Cybersecurity**
+
+⚡ Fun Fact: *Hack the system to understand the system.*
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="50" style="background-color:white; border-radius: 50px; padding: 4px;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="50"/> &nbsp;
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,linux,git,github,vscode"/>
+
 </p>
 
 ---
 
-### 🐍 Snake Eating My Contributions
+# 🔐 Cybersecurity Interests
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+✔ Vulnerability Assessment & Penetration Testing  
+✔ SOC Monitoring & Log Analysis  
+✔ Network Security  
+✔ Threat Intelligence  
+✔ Python Automation for Security  
 
 ---
-<hr/>
 
-<h2>📬 Contact Me</h2>
+# 🚀 Cybersecurity Projects
 
-<p>
-Hi there! I'm <strong>Cyber Prince</strong> — a passionate <strong>Content Writer</strong>, creative and an enthusiastic <strong>Cybersecurity Explorer</strong>.  
-I love blending creativity with tech — whether it's writing engaging blogs, crafting aesthetic visuals, or diving into digital security.  
-Always excited to collaborate on meaningful projects or just vibe over design, tech & dreams 🌈✨  
+🔹 Smart Authentication SOC Dashboard  
+🔹 Python Log Analyzer for Suspicious Activity Detection  
+🔹 IoT Smart Parking System using Raspberry Pi  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-7626&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-7626&theme=tokyonight"/>
+
 </p>
 
-<p>
-<a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" style="vertical-align:middle; margin-right:8px;" />
-  www.linkedin.com/in/prince-kashyapp
+---
+
+# 🧠 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-7626&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prince-kashyapp">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 </p>
 
-<!-- Bloom Unscreencut GIF - Bottom Right -->
-<div align="right">
-  <img src="((https://camo.githubusercontent.com/1cc478d6ea38eab530acb98124c749dba0c5b19294bee0ee4bd6169ae4f5639d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)" alt="Bloom Animation" width="320" />
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Prince-7626&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🔐 "Security is not a product, it's a process."
+
 </div>
