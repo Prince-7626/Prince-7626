@@ -52,25 +52,12 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🧰 Security Tools I'm Learning
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-7626&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-7626&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-7626&layout=compact&theme=tokyonight"/>
-
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
 
 ---
 
